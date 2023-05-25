@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+ height:100vh;
+ width:100vw;
+ /* border:2px solid red; */
+ background-color: black;
+}
+main{
+    width:40vw;
+    height:100%;
+    background-color: white;
+    margin-left: 30%;
+   
+}
+
+.container{
+    position: relative;
+    height:100%;
+    width: 100%;
+    /* border:2px solid green; */
+    padding: 5px;
+}
+section{
+    height:100%;
+    width:80%;
+    /* border: 2px solid yellow; */
+    margin-left: 9%;
+}
+
+img{
+    height:30%;
+    width: 100%;
+    margin:20px 0px;
+
+} 
+
